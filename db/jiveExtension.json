@@ -1,0 +1,12 @@
+{
+  "jiveExtension": {
+    "id": "111496dd-9bb7-4810-8815-4f35bde0b201",
+    "uuid": "111496dd-9bb7-4810-8815-4f35bde0b201",
+    "name": "OnduTweetMaga",
+    "description": "Description for app",
+    "icon_16": "extension-16.png",
+    "icon_48": "extension-48.png",
+    "icon_128": "extension-128.png",
+    "releasedOn": "2017-05-17T05:54:17.340Z"
+  }
+}

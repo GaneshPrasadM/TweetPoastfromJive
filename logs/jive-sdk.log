@@ -1,0 +1,15 @@
+[2017-05-17 18:42:14.626] [DEBUG] jive-sdk - Zipping extension_src/data/extension-128.png to extension.zip  :  data/extension-128.png
+[2017-05-17 18:42:14.627] [DEBUG] jive-sdk - Zipping extension_src/data/extension-16.png to extension.zip  :  data/extension-16.png
+[2017-05-17 18:42:14.627] [DEBUG] jive-sdk - Zipping extension_src/data/extension-48.png to extension.zip  :  data/extension-48.png
+[2017-05-17 18:42:14.628] [DEBUG] jive-sdk - Zipping extension_src/data/install_instructions.html to extension.zip  :  data/install_instructions.html
+[2017-05-17 18:42:14.628] [DEBUG] jive-sdk - Zipping extension_src/data/overview.html to extension.zip  :  data/overview.html
+[2017-05-17 18:42:14.629] [DEBUG] jive-sdk - Zipping extension_src/data/privacy_policy.html to extension.zip  :  data/privacy_policy.html
+[2017-05-17 18:42:14.629] [DEBUG] jive-sdk - Zipping extension_src/data/screenshot_1.png to extension.zip  :  data/screenshot_1.png
+[2017-05-17 18:42:14.629] [DEBUG] jive-sdk - Zipping extension_src/data/screenshot_2.png to extension.zip  :  data/screenshot_2.png
+[2017-05-17 18:42:14.632] [DEBUG] jive-sdk - Zipping extension_src/i18n/en.properties to extension.zip  :  i18n/en.properties
+[2017-05-17 18:42:14.632] [DEBUG] jive-sdk - Zipping extension_src/i18n/root.properties to extension.zip  :  i18n/root.properties
+[2017-05-17 18:42:14.701] [INFO] jive-sdk - Bootstrap complete.
+[2017-05-17 18:42:14.702] [INFO] jive-sdk - Jive SDK version 0.2.17
+[2017-05-17 18:42:14.702] [INFO] jive-sdk - Started service in  self-contained mode
+[2017-05-17 18:42:14.702] [INFO] jive-sdk - Service started in development mode
+[2017-05-17 18:42:29.454] [INFO] jive-sdk - Updated 1 data file(s): [jiveExtension]

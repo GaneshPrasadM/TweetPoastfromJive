@@ -1,0 +1,35 @@
+<html>
+<head>
+    <link rel="stylesheet" href="stylesheets/main.css" type="text/css" media="screen" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <!-- NOT NEEDED IF USING <Require feature="jive-core-v3-resolver"/> in app.xml -->
+    <!-- <script type="text/javascript" charset="utf-8" src="javascripts/coreapi-context-resolver-v3.js"></script> -->
+    <script type="text/javascript" charset="utf-8" src="javascripts/app.js"></script>
+    <!-- NOTE: main.js SHOULD RUN LAST -->
+    <script type="text/javascript" charset="utf-8" src="javascripts/main.js"></script>
+    <script type="text/javascript" src="javascripts/abc.js"></script>
+</head>
+
+<body>
+  <form method="post" action="/add">
+  <div class="container">
+      <div class="container text-center">
+    <h3>Create Tweet</h3>
+      </div>
+    <br /><br />
+    
+    <br /><br />
+    <div class="form-group">
+    <label for="Body">Tweet:</label><br />
+    <textarea class="form-control" type="textarea" id="discussion" rows="4" cols="50"></textarea>
+    </div>
+    <br /><br />
+    <div class="pull-right">
+    <button class="btw btn-primary" id="btn_discuss">Tweet &nbsp;<span class="glyphicon glyphicon-comment"></span></button>
+    <button class="btw btn-primary" id="btn_submit">Exit &nbsp;<span class="glyphicon glyphicon-remove-circle"></span></button>
+    </div>
+  </div>
+  </form>
+</body>
+
+</html>
